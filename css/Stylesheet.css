@@ -1,0 +1,33 @@
+#map {
+	height: 850px;
+}
+#contentStart {
+	padding: 100px 0 40px 0;
+}
+#traffic {
+	height: 850px;
+	overflow: auto;
+	background: white;
+}
+#select {
+	float: right;
+	padding-right: 20px;
+}
+#select input {
+	margin-left: 20px;
+}
+.traffic-info {
+	border: 1px solid #ddd;
+	border-collapse: collapse;
+	margin-bottom: 5px;
+	padding: 10px;
+	background: #eee;
+}
+#categorySelect {
+	display: inline;
+}
+h1.navbar-brand {
+	font-size: 28px;
+	font-weight: bold;
+	padding: 0 0 0 20px;
+}
